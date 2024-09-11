@@ -17,7 +17,7 @@ const timeout = 10000; //超时时间(单位毫秒)
 // =======================================wxpush设置区域=======================================
 //官方文档：https://wxpusher.zjiecode.com/
 //WX_PUSH_TOKEN：微信扫码登录后一对一推送
-let WX_PUSH_TOKEN = 'AT_l2zR8LFfpdPUtaKNrVI3yBjRWyF9MaXa';
+let WX_PUSH_TOKEN = 'AT_Ybk0MrIfgg7q5KN2EET6XI10EkTU6Oo1';
 // =======================================gotify通知设置区域==============================================
 //gotify_url 填写gotify地址,如https://push.example.de:8080
 //gotify_token 填写gotify的消息应用token
