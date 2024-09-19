@@ -16,7 +16,7 @@ const {
     tryCatchPromise: _0x358f23,
     checkCk: _0x507b71,
     getToken
-  } = require("./common1.js"),
+  } = require("./common.js"),
   md5 = require("md5"),
   _0x34af9d = require("request"),
   _0x1b471c = process.env.ELE_CARME,
