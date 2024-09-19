@@ -20,7 +20,7 @@ const {
   md5 = require("md5"),
   _0x34af9d = require("request"),
   _0x1b471c = process.env.ELE_CARME,
-  HOST = process.env.HOST || "http://192.168.100.234:3750/script-auth",
+  HOST = process.env.HOST || "http://192.168.1.2:5700/script-auth",
   _0x24ea83 = 3,
   _0xa09546 = require("crypto");
 async function _0x2ba1e4(_0x87a808) {
